@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "matricule": "0001",
+    "nom": "Ouedraogo",
+    "prenom": "Ibrahim",
+    "image": "https://api.dicebear.com/9.x/avataaars/svg?seed=IbrahimOuedraogo",
+    "origin": "Ouagadougou",
+    "email": "ibrahim.ouedraogo@2ie-edu.org",
+    "filiere": "Génie Civil",
+    "badge": "primary",
+    "badgeText": "Licence 3",
+    "niveau": "L3"
+  },
+  {
+    "id": "2",
+    "matricule": "0002",
+    "nom": "Zongo",
+    "prenom": "Aïcha",
+    "image": "https://api.dicebear.com/9.x/avataaars/svg?seed=AichaZongo",
+    "origin": "Bobo-Dioulasso",
+    "email": "aicha.zongo@2ie-edu.org",
+    "filiere": "Génie Informatique",
+    "badge": "secondary",
+    "badgeText": "Master 1",
+    "niveau": "M1"
+  },
+  {
+    "id": "3",
+    "matricule": "0003",
+    "nom": "Sawadogo",
+    "prenom": "Salif",
+    "image": "https://api.dicebear.com/9.x/avataaars/svg?seed=SalifSawadogo",
+    "origin": "Koudougou",
+    "email": "salif.sawadogo@2ie-edu.org",
+    "filiere": "Génie Électrique",
+    "badge": "accent",
+    "badgeText": "Licence 2",
+    "niveau": "L2"
+  },
+  {
+    "id": "4",
+    "matricule": "0004",
+    "nom": "Traoré",
+    "prenom": "Fatoumata",
+    "image": "https://api.dicebear.com/9.x/avataaars/svg?seed=FatoumataTraore",
+    "origin": "Banfora",
+    "email": "fatoumata.traore@2ie-edu.org",
+    "filiere": "Hydraulique",
+    "badge": "info",
+    "badgeText": "Master 2",
+    "niveau": "M2"
+  },
+  {
+    "id": "5",
+    "matricule": "0005",
+    "nom": "Kaboré",
+    "prenom": "Moussa",
+    "image": "https://api.dicebear.com/9.x/avataaars/svg?seed=MoussaKabore",
+    "origin": "Ouahigouya",
+    "email": "moussa.kabore@2ie-edu.org",
+    "filiere": "Énergies Renouvelables",
+    "badge": "success",
+    "badgeText": "Licence 3",
+    "niveau": "L3"
+  },
+  {
+    "id": "6",
+    "matricule": "0006",
+    "nom": "Sanou",
+    "prenom": "Adama",
+    "image": "https://api.dicebear.com/9.x/avataaars/svg?seed=AdamaSanou",
+    "origin": "Dori",
+    "email": "adama.sanou@2ie-edu.org",
+    "filiere": "Mines et Géologie",
+    "badge": "warning",
+    "badgeText": "Licence 1",
+    "niveau": "L1"
+  }
+]
